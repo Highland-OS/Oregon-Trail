@@ -10,4 +10,4 @@ This remake offers almost the same experience as the original game.
 
 ## Contribute
 Contributions are welcome!
-Be sure to visit [`Contributions.md`](https://github.com/Highland-OS/Highland-OS/blob/main/Contributions.md) to learn how.
+Be sure to visit [`CONTRIBUTING.md`](https://github.com/Highland-OS/Highland-OS/blob/main/CONTRIBUTING.md) to learn how.
